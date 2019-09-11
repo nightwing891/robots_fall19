@@ -1,0 +1,26 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/doan/Desktop/robots_fall19/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/doan/Desktop/robots_fall19/app/models/robot.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/doan/Desktop/robots_fall19/app/models/inventor.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1568170113
+  }
+}
